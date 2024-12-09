@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec4275c9-9449-471b-bc61-db5dab96c2e0)# AQI-index-and-Heat-Wave-Prediction-for-Telangana
+# AQI-index-and-Heat-Wave-Prediction-for-Telangana
 This repository contains the code and resources for the AQI Index and Heatwave Prediction project, developed as part of the Academic Grand Challenge on Climate Change organized by the Telangana government. The objective of the project was to predict Air Quality Index (AQI) and identify potential heatwaves using machine learning models, providing insights into climate trends and their impacts.
 
 # Introduction
